@@ -6,13 +6,13 @@
 
 ## FAILURE TO FILL OUT THE INFORMATION BELOW CORRECTLY WILL CAUSE POINTS TO BE DEDUCTED FROM YOUR ASSIGNMENT.
 
-## Student Name  : 
+## Student Name  : Boer Cai
 
-## Student ID    : 
+## Student ID    : 88-295-5914
 
-## Student Email : 
+## Student Email : caib3600@student.laccd.edu
 
-## Purpose of Repository
+## Purpose of Repository: fulfill the CS 131 project for bitcoin 
 
 The Purpose of this Repository is to study a specific intrest related to this course, apply that priciple to solve a problem, then present. We can use this page to upload our work. In order to keep things organized I would suggest creating your own folder for a specific topic and working with others in that directory(folder) if you want to work on that topic. I invite anyone who has worked with github before to assist if you know best practices when it comes to colaboration.
 
